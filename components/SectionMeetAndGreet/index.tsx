@@ -13,7 +13,7 @@ const MeetnGreet = () => {
         <h2
           className={
             barlowCondensed.className +
-            " font-heading uppercase text-transparent bg-clip-text bg-gradient-to-r from-white/40 via-white/100 to-white/40 !leading-[0.9] text-[18vw] xs:text-[16vw] md:text-[14vw] lg:text-[8vw] xl:text-[8vw] 2xl:text-[8vw]"
+            " font-heading uppercase text-transparent bg-clip-text bg-gradient-to-r from-white/40 via-white/100 to-white/40 !leading-[0.9] text-[18vw] xs:text-[16vw] md:text-[14vw] lg:text-[6vw] xl:text-[6vw] 2xl:text-[6vw]"
           }
         >
           Meet and Greet
